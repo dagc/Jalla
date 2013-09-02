@@ -4,4 +4,10 @@ Test git repoo by Dag Corell
 En endring, og ent il
 
 
-Ny branch ?
+Ny branch 
+
+
+
+
+
+Ja ?
